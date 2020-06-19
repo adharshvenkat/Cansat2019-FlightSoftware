@@ -5,6 +5,11 @@ On-Board Flight Software of Team Sammard for the CanSat Competition 2019. These 
 
 ![](Sammard.gif)
 
+<b>What is cansat?</b>
+A CanSat is a type of sounding rocket payload used to teach space technology. It is similar to the technology used in miniaturized satellites. No CanSat has ever left the atmosphere, nor orbited the earth.
+
+For more information visit: www.cansatcompetition.com
+
 
 
 
